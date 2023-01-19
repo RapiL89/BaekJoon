@@ -1,3 +1,5 @@
+package 완료_re;
+
 import java.util.StringTokenizer;
 import java.io.BufferedWriter;
 import java.io.BufferedReader;
@@ -5,7 +7,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.InputStreamReader;
 
-public class _15552_re {
+public class B_15552_re {
     public static void main(String[] args) throws IOException {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter sd = new BufferedWriter(new OutputStreamWriter(System.out));

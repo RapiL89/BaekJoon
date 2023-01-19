@@ -1,6 +1,8 @@
+package 완료_re;
+
 import java.util.Scanner;
 
-public class _2884_re {
+public class B_2884_re {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,6 +1,8 @@
+package 완료;
+
 import java.util.Scanner;
 
-public class _2739 {
+public class B_2739 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int ring = sc.nextInt();

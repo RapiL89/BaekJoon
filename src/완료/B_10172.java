@@ -1,4 +1,6 @@
-public class _10172 {
+package 완료;
+
+public class B_10172 {
     public static void main(String[] args) {
 
         System.out.println("|\\_/|\n" +

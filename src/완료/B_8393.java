@@ -1,6 +1,8 @@
+package 완료;
+
 import java.util.Scanner;
 
-public class _8393 {
+public class B_8393 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

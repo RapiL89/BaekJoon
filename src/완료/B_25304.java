@@ -1,3 +1,5 @@
+package 완료;
+
 import java.util.Scanner;
 
 //class Product {
@@ -12,7 +14,7 @@ import java.util.Scanner;
 //        sum += ding * dong;
 //    }
 //}
-public class _25304 {
+public class B_25304 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

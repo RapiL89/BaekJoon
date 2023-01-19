@@ -1,4 +1,6 @@
-public class _25083 {
+package 완료;
+
+public class B_25083 {
     public static void main(String[] args) {
         System.out.println("         ,r'\"7");
         System.out.println("r`-_   ,'  ,/");

@@ -1,6 +1,8 @@
+package 완료;
+
 import java.util.Scanner;
 
-public class _3003 {
+public class B_3003 {
 
     public static void main(String[] args) {
 
